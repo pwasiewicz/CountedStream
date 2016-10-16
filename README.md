@@ -1,4 +1,4 @@
-# counted-stream
+# CountedStream
 CountedStream is a simple wrapper that allows you to count bytes written to a stream:
 
 available on nuget: https://www.nuget.org/packages/Was.CountedStream/0.0.1.1
